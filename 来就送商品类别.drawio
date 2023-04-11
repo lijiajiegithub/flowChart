@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-11T02:58:51.667Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" etag="-05k5jZrM8V8KKfMl4D8" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-11T03:00:24.707Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" etag="USmZTqqo0hjlKJNKZEdm" version="20.8.20" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="993" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -73,6 +73,12 @@
         </mxCell>
         <mxCell id="voh8ZiznifiruooxI_7U-21" value="product&amp;nbsp; &amp;nbsp;4" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="voh8ZiznifiruooxI_7U-22" value="0" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="voh8ZiznifiruooxI_7U-23" value="体验价 升级价" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="505" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
